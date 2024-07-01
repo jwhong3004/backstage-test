@@ -5,6 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: jwhong3004/backstage-ec2
     backstage.io/techdocs-ref: dir:.
+    github.com/workflows: instance.yaml
   title: '"backstage-test" / EC2 instance' # you can give any title
   description: 'An example of a Instance Creation. repo: "github.com?owner=jwhong3004&repo=backstage-test"'
 spec:
