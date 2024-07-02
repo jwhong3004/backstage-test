@@ -1,5 +1,5 @@
 {
-  "dependencies": {
-    "lodash": "4.17.15"  // 취약한 버전
-  }
+    "name": "backstage-test",
+    "private": true,
+    "dependencies": {}
 }
