@@ -7,7 +7,6 @@ metadata:
     backstage.io/techdocs-ref: url:https://github.com/jwhong-3004/backstage-test
     github.com/workflows: instance.yml
     backstage.io/kubernetes-label-selector: 'k8sgpts.k8sgpt.ai/backend=openai'
-    backstage.io/kubernetes-label-selector: 'app=my-kubernetes-component'
     prometheus.io/rule: cluster:cpu_usage:rate5m
   title: '"backstage-test" / EC2 instance' # you can give any title
   description: 'An example of a Instance Creation. repo: "github.com?owner=jwhong3004&repo=backstage-test"'
