@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: backstage-test
   annotations:
-    backstage.io/kubernetes-id: kubernetes-component
+    app: my-kubernetes-component
     github.com/project-slug: jwhong3004/backstage-ec2
     backstage.io/techdocs-ref: url:https://github.com/jwhong-3004/backstage-test
     github.com/workflows: instance.yml
