@@ -11,6 +11,7 @@ metadata:
     argocd/proxy-url: '/argocd/api'
     argocd/app-name: test
     gitlab.com/project-id: '3'
+    grafana/overview-dashboard: 'https://grafana-standard.kuberix.co.kr/d/a31fb398-8217-4668-a393-0fd60e3d1682/dashboard-sample?orgId=1'
 #    gitlab.com/project-slug: 'kuberix/standard-test'
 #    gitlab.com/instance: gitlab-standard.kuberix.co.kr
   title: '"backstage-test" / EC2 instance' # you can give any title
