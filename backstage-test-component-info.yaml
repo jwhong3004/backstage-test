@@ -3,11 +3,11 @@ kind: Component
 metadata:
   name: backstage-test
   annotations:
+    prometheus.io/rule: cluster:cpu_usage:rate5m
     github.com/project-slug: jwhong3004/backstage-ec2
     backstage.io/techdocs-ref: url:https://github.com/jwhong-3004/backstage-ec2
     github.com/workflows: instance.yml
     backstage.io/kubernetes-label-selector: 'k8sgpts.k8sgpt.ai/backend=openai'
-#    prometheus.io/rule: cluster:cpu_usage:rate5m
 #    argocd/proxy-url: '/argocd/api'
 #    argocd/app-name: test
 #    gitlab.com/project-id: '3'
