@@ -18,5 +18,5 @@ metadata:
 spec:
   type: service
   owner: guests
-  lifecycle: development
+  lifecycle: experimental
   #lifecycle: production
